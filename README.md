@@ -9,13 +9,13 @@ The Approach for this problem statement is more leaned toward Data Preprocessing
 3. Defining functions for future uses
 4. Translating Tweets to the English language
 5. Data Pre-processing (Cleaning Tweets)
-  * Finding text with spaces
-  * Numbers in the tweets
-  * URL Link
-  * Hashtags
-  * Emojis
-  * Word less than 2 character
-  * And others...
+    * Finding text with spaces
+    * Numbers in the tweets
+    * URL Link
+    * Hashtags
+    * Emojis
+    * Word less than 2 character
+    * And others...
 
 6. Extracting Entities from the tweets with their frequency
 7. Data Visualization
